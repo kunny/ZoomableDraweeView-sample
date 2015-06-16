@@ -8,3 +8,6 @@ android:
 env:
   # TERM=dumb : For Gradle build output
   - TERM=dumb
+  
+script:
+  - ./gradlew clean build
