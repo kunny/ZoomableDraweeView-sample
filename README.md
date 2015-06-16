@@ -8,4 +8,4 @@ Sample project for [Fresco](http://frescolib.org)'s `ZoomableDraweeView`, which 
 - Gallery
 
 ## License
-Sample project is Apache 2.0-licensed, but some sources from Fresco samples follow its own license. See [LICENSE](https://github.com/kunny/ZoomableDraweeView-sample/blob/master/LICENSE) for details.
+Sample project is Apache 2.0-licensed, but some sources from Fresco samples follow its own license. See the [LICENSE](https://github.com/kunny/ZoomableDraweeView-sample/blob/master/LICENSE) for details.
